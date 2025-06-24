@@ -4,5 +4,14 @@
     grid-template-columns: repeat(5,100px);    /* divide each column width space equally with fr */
     border-style: solid;
     border-width: 5px;
+}
 
+.item1{
+    background-color: aquamarine;
+    grid-row: 3;
+    grid-column: 2/5; /* 2 = which position of column this item holds in grid 5 = current Position + number of column to take up e.g. 3 so 2 + 3 = 5 */
+}
+
+.item2{
+    background-color: aqua;
 }
