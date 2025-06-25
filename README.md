@@ -3,9 +3,7 @@ Activating the venv with:
 Mac: venv/bin/activate
 Windows: venv/bin/activate
 
-TODO later:
-pip freeze > requirements.txt
-(Will save the depenedencies into requirements.txt so for others to easily install dependencies and run)
+use pip to install the dependencies in requirements.txt
 
 run the web server with:
 python manage.py runserver
