@@ -1,6 +1,6 @@
 Activating the venv with:
 
-Mac: venv/bin/activate
+Mac: source venv/bin/activate
 Windows: venv/bin/activate
 
 use pip to install the dependencies in requirements.txt
